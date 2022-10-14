@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @P33J3
-- 👀 I’m interested in all things React and FullStack
+- 👋 Hi, I’m Peter-Jon
+- 👀 I’m interested in all things FullStack
 - 🌱 I’m currently learning to be a better developer.
 - 📫 You can reach me at peterjon.dev
 
