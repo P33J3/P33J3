@@ -1,4 +1,4 @@
-9- 👋 Hi, I’m Peter-Jon
+👋 Hi, I’m Peter-Jon
 - 👀 I’m interested in all things FullStack
 - 🌱 I’m currently learning to be a better developer.
 - 📫 You can reach me at peterjon.dev (currently under construction)
